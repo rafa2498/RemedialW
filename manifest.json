@@ -1,0 +1,47 @@
+{
+    "name": "#TrabajoRedemial",
+    "short_name": "#TrabajoRemedial",
+    "description": "Esta es una página PWA",
+    "background_color": "#2B2B2B",
+    "theme_color": "#F0DB4F",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [{
+            "src": "./img/logo1080.png",
+            "sizes": "1080x1148",
+            "type": "image/png"
+        },
+
+        {
+            "src": "./img/logo512.png",
+            "sizes": "512x544",
+            "type": "image/png"
+        },
+
+        {
+            "src": "./img/logo144.png",
+            "sizes": "144x153",
+            "type": "image/png"
+        },
+
+        {
+            "src": "./img/logo128.png",
+            "sizes": "128x136",
+            "type": "image/png"
+        },
+
+        {
+            "src": "./img/logo64.png",
+            "sizes": "64x68",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/logo32.png",
+            "sizes": "32x34",
+            "type": "image/png"
+        }
+    ]
+}

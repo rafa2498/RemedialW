@@ -1,0 +1,20 @@
+body{
+    background: url("../img/avion.jpg");
+    background-attachment: fixed; /*LA IMAGEN SE QUEDA FIJA*/
+}
+#logo {
+    background: #4c92e2;
+}
+#menu ul li:hover {
+    background:  #4c92e2;
+}
+.button-more {
+    background-color:  #4c92e2;
+}
+#mensaje{
+    margin-top: 10px;
+    color: white;
+    background: rgb(248, 81, 3);
+    text-align: center;
+    border-radius: 3px;
+  }
